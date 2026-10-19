@@ -1,0 +1,1 @@
+Document explaining the PocketSmart AI project, including its objectives, features, technologies used, system design, and expected outcomes.
